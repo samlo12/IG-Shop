@@ -16,3 +16,5 @@ Please note that this website is only for personal study purposes and is hosted 
 You can access the website online at [https://igshop-87kp.onrender.com/](https://igshop-87kp.onrender.com/).
 
 To access the admin route, visit [https://igshop-87kp.onrender.com/admin/login/](https://igshop-87kp.onrender.com/admin/login/).
+username: admin2023
+password: p2023
